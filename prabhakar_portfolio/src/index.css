@@ -38,6 +38,7 @@ html {
 
 
 body {
+  /* background: url(./assets/prp_blur.png); */
   background: var(--color-bg);
   color: var(--color-white);
   font-family: 'Poppins', sans-serif;
@@ -67,7 +68,7 @@ h1 {
 
 section {
   margin-top: 8rem;
-  height: 100vh;
+  /* height: 100vh; */
 }
 
 section>h2,

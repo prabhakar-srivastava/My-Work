@@ -1,7 +1,7 @@
 import React from 'react'
 import './header.css'
 import Cta from './cta'
-import Img from '../../assets/download (2).jpg'
+import Img from '../../assets/pngwing.com.png'
 import Sociallink from './sociallink'
 
 

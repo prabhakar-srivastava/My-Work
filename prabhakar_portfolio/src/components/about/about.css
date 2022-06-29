@@ -60,7 +60,7 @@
     .about_content{
         grid-template-columns: 1fr;
         margin-top: 5px;
-        
+        margin-bottom: 5rem;
     } 
     /* .about_me img:hover{
         transform: rotate(0);

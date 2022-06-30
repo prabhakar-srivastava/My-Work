@@ -12,16 +12,14 @@ const Footer = () => {
       <ul className='permalinks'>
         <li><a href="#">Home</a></li>
         <li><a href="#about">About</a></li>
-        <li><a href="#experience">Expeirience</a></li>
-        {/* <li><a href="#services">Services</a></li> */}
-        <li><a href="#poject">Portfolio</a></li>
-        {/* <li><a href="#testimonials">Testimonials</a></li> */}
+        <li><a href='#exp'>Experience</a></li>
+        <li><a href='#project'>Portfolio</a></li>
         <li><a href="#contact">Contact</a></li>
       </ul>
       <div className="footer_socials">
-        <a href="https://facebook.com"><FaFacebookF/></a>
-        <a href="https://instagram.com"><FiInstagram/></a>
-        <a href="https://twitter.com"><IoLogoTwitter /></a>
+        <a href="https://m.me/profile.php?id=100008924291714" target='_blank'><FaFacebookF/></a>
+        <a href="https://www.instagram.com/lazy_coder._/" target='_blank'><FiInstagram/></a>
+        <a href="https://twitter.com/lazy_coder__" target='_blank'><IoLogoTwitter /></a>
 
       </div>
       <div className="footer_copyright">
